@@ -29,8 +29,7 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-**.env file**
-Replace the values for JDK8PATH and ANDROIDTOOLSPATH with your local Java and Android SDK paths.
+`.env` - Replace the values for JDK8PATH and ANDROIDTOOLSPATH with your local Java and Android SDK paths.
 
 ## Resources for Learning Electron
 
