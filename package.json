@@ -21,7 +21,7 @@
     "electron": "^20.1.0"
   },
   "dependencies": {
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "tmp": "^0.2.1"
   }
 }
